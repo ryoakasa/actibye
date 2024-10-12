@@ -58,8 +58,8 @@ def onliner(token, status):
                     "name": "Custom Status",
                     "id": "custom",
                     "emoji": {
-                        "name": "boos",
-                        "id": "1253616776839692329",
+                        "name": "fls",
+                        "id": "1286928253918908579",
                         "animated": True,
                     },
                 }
